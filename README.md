@@ -5,7 +5,7 @@ Download files for ctl. products. The source repositories are private; this one 
 | Product | Version | File |
 |---|---|---|
 | mder (Linux .deb) | 0.1.0 | [mder_0.1.0_amd64.deb](mder/0.1.0/mder_0.1.0_amd64.deb) |
-| CalMyScreen (Linux .deb) | 0.1.0 | [calmyscreen_0.1.0_amd64.deb](calmyscreen/0.1.0/calmyscreen_0.1.0_amd64.deb) |
+| CalMyScreen (Linux .deb) | 0.2.0 | [calmyscreen_0.2.0_amd64.deb](calmyscreen/0.2.0/calmyscreen_0.2.0_amd64.deb) |
 | Quiver (Chrome / Brave extension, unpacked) | 2.0.0 | [quiver-2.0.0.zip](quiver/2.0.0/quiver-2.0.0.zip) |
 | Perf Monitor (GNOME Shell extension, 45 to 50) | 1 | [perfmon-1.shell-extension.zip](perfmon/1/perfmon-1.shell-extension.zip) |
 
